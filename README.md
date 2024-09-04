@@ -2,4 +2,4 @@
 
 ## Manejo de lenguajes HTML, CSS y JS
 
-En la práctica se empleo el uso de una inteligencia artificial (chatGPT), con ayuda de la IA se lograron obtener códigos en HTML, CSS Y JS, en conjunto se desarrolló una página web relacionada a los colores RGB y sus distintas combinaciones.
+En la práctica se empleo el uso de una inteligencia artificial (chatGPT), con ayuda de la IA se lograron obtener códigos en HTML, CSS Y JS, en conjunto se desarrolló una página web relacionada a los colores RGB y sus distintas combinaciones, a su vez se apreciaron los diferentes códigos que son generados por medio de los colores primarios.
